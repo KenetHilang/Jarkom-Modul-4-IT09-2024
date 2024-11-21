@@ -1,10 +1,11 @@
 # Jarkom-Modul-4-IT09-2024 💯💯💯
+<img width="200px" src="https://i.pinimg.com/originals/dc/d1/32/dcd132be0354a13bb52d6678c290aa97.gif" style="border-radius: 10px;">
 
 ## Angggota
 
 | Anggota | NRP  |
 | ------- | --- |
-| Michael Kenneth Salim | 5027231008 | <img width="100px" src="https://i.pinimg.com/originals/dc/d1/32/dcd132be0354a13bb52d6678c290aa97.gif" style="border-radius: 10px;">
+| Michael Kenneth Salim | 5027231008 | 
 | Tio Axelino | 5027231065 |
 
 

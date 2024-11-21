@@ -7,7 +7,7 @@
 | Michael Kenneth Salim | 5027231008 |
 | Tio Axelino | 5027231065 |
 
-<p align="middle"> <img src="https://i.pinimg.com/originals/dc/d1/32/dcd132be0354a13bb52d6678c290aa97.gif" style="border-radius: 10px;"> </p>
+<img width="100px" src="https://i.pinimg.com/originals/dc/d1/32/dcd132be0354a13bb52d6678c290aa97.gif" style="border-radius: 10px;">
 
 ## Topologi
 

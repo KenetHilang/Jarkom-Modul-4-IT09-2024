@@ -9,10 +9,10 @@
 
 ## Topologi
 
+Gambar CPT_VLSM
 ![image](https://github.com/user-attachments/assets/db925b56-91fe-4b07-82d5-cd36239b9900)
 
-Gambar CPT_VLSM
-
+Gambar GNS_CIDR
 
 ## Configuration
 
